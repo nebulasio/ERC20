@@ -1,1 +1,1 @@
-# ico
+# Nebulas ICO Contract.
