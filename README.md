@@ -1,1 +1,3 @@
-# Nebulas ICO Contract.
+# Nebulas ERC20 Contract.
+
+
